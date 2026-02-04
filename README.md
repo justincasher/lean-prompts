@@ -14,9 +14,7 @@ Each subdirectory targets a different workflow:
 
 ## Background
 
-From [Joseph Myers on Zulip](https://leanprover.zulipchat.com/):
-
-> There should be lots of ways for AI to accelerate stating things other than building a sloplib. For example, AI could probably help with many of the more mechanical parts of PR review for mathlib (that aren't mechanical enough to turn into linters) and so reduce the amount of time maintainers need to spend on those when doing reviews for mathlib. People have written extremely detailed instructions to AIs on Linux kernel patch review, why shouldn't we have similarly detailed instructions on reviewing mathlib changes and a service that does such reviews on PRs (automatically, or when requested)?
+Inspired by Joseph Myers' suggestion in the [sloplib discussion on Zulip](https://leanprover.zulipchat.com/#narrow/channel/113488-general/topic/sloplib/with/571929508) that AI could help with the mechanical parts of Mathlib PR review — the things that aren't quite mechanical enough for linters but don't require deep mathematical judgment.
 
 See also: [botbaki](https://github.com/kim-em/botbaki) by Kim Morrison, an AI-powered review bot for Mathlib PRs.
 
