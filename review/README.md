@@ -2,18 +2,6 @@
 
 AI-assisted prompts for reviewing Mathlib pull requests. Modeled after the [kernel review prompts](https://github.com/masoncl/review-prompts/tree/main/kernel).
 
-## Directory Structure
-
-```
-review/
-  review-core.md        # Main review protocol (entry point)
-  skills/               # Claude Code skill files
-  slash-commands/        # Claude Code slash commands (/lreview, etc.)
-  patterns/             # Common patterns and anti-patterns
-  scripts/              # Setup and utility scripts
-  examples/             # Example reviews
-```
-
 ## What's Needed
 
 The goal is a set of prompts that help AI perform the mechanical parts of Mathlib PR review — the things that aren't quite mechanical enough for linters but don't require deep mathematical judgment. For example:
