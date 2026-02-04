@@ -1,6 +1,6 @@
 # Lean Prompts
 
-AI-assisted prompts for Lean 4 and Mathlib development. Designed for use with [Claude Code](https://claude.com/claude-code) and other AI tools.
+A collection of prompts, skills, and agent instructions for AI-assisted Lean 4 and Mathlib development. This includes system prompts, Claude Code skills, Codex skills, slash commands, and anything else that can be used to prompt or otherwise instruct AI agents for Lean 4 programming.
 
 Inspired by [review-prompts](https://github.com/masoncl/review-prompts) (Linux kernel / systemd) and the discussion around AI-assisted Mathlib PR review on the [Lean Zulip](https://leanprover.zulipchat.com/).
 
