@@ -11,6 +11,7 @@ Each subdirectory targets a different workflow:
 | Directory | Purpose | Status |
 |-----------|---------|--------|
 | `review/` | Mathlib PR review prompts | WIP |
+| `skills/` | General-purpose agent skills for Lean 4 | WIP |
 
 ## Background
 
